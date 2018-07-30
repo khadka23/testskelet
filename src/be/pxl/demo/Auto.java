@@ -31,6 +31,6 @@ public class Auto {
 
 	public void verhoogPrijs(int percent) {
 		// TODO: implementeer deze methode
-		//test
+		//testhari
 	}
 }
